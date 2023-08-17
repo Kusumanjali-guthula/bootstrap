@@ -1,0 +1,41 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+
+
+.a{
+	text-align: left;
+}
+h6{
+	
+	display: inline-block;
+}
+.s{
+	float: left;
+}
+.d{
+	float: right;
+	border: 1px solid black;
+}
+.e{
+	float: right;
+	border: 1px solid black;
+	margin-right: 5px;
+}
+.t1{
+	
+	height: 50px;
+	width: 50px;
+	border-radius: 30px;
+	margin-left: 1000px;
+	float: left;
+}
+.im{
+  float: right;
+  height: 50px;
+  width: 50px;
+
+}
